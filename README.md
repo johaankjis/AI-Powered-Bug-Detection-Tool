@@ -347,7 +347,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built with scikit-learn for machine learning capabilities
 - Uses Express.js for robust API server
 - Pattern detection inspired by common security best practices
-- UI components from Radix UI and shadcn/ui
+- Testing frameworks: pytest and Jest
 
 ## 🐛 Reporting Issues
 
